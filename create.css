@@ -1,0 +1,11 @@
+*{
+    margin: 0em;
+    padding: 0em;
+}
+body{
+    background-color: black;
+    color: white;
+    border-radius: 2em;
+    padding: 2em;
+    margin: 2em;
+}
